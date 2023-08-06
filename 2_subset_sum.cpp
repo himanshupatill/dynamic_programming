@@ -2,6 +2,8 @@
 //only differece it has is use of OR instead of max
 //where should or be used and where should max be used will depend on the question and the context
 
+
+//Recursive solution
 class Solution{   
 public:
     bool solve(int n, vector<int>& arr, int sum){
